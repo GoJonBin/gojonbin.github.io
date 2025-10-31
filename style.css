@@ -1,0 +1,26 @@
+body {
+  scroll-behavior: smooth;
+}
+
+.hero {
+  height: 100vh;
+  background: linear-gradient(135deg, #0d1117 0%, #21262d 100%);
+  color: #fff;
+  padding: 0 15px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero p {
+  max-width: 600px;
+}
+
+section {
+  padding-top: 80px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
